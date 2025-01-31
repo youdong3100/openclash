@@ -1,0 +1,51 @@
+# 内容：国外媒体列表
+# 更新：2024-12-14 11:14:53
+# 数量：367条
+
+
+
+# Bahamut
+USER-AGENT,Anime*
+DOMAIN,bahamut.akamaized.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+
+
+# LiTV
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv
+
+
+# TaiWanGood 台湾好
+USER-AGENT,TaiwanGood*
+DOMAIN,hamifans.emome.net
+DOMAIN-SUFFIX,skyking.com.tw
+
+#ofiii分流
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN,cdi.ofiii.com
+DOMAIN,ofiii
+DOMAIN,ofifree
+GEOSITE,ofi
+DOMAIN,ntdofifreepc.akamaized.net
+DOMAIN,ofissaifreepc.akamaized.net
+DOMAIN,ntdofifreepocpc.akamaized.net
+DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
+
+# 4GTV 分流规则
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN,4gtvfree-cds.cdn.hinet.net
+DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,ntdfreevopc-tgc.cdn.hinet.net
+DOMAIN-SUFFIX,v2h-cdn.com
+DOMAIN-SUFFIX,ballbar.net
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+
+
